@@ -1,0 +1,13 @@
+ETIQUETAS DE HTML
+Notas de clase con el siguiente temario:
+
+  h1...h6 --> Titulos de mayor tamaño al menor tamaño
+  p --> Parrafos
+  hr --> línea horizontal (no necesita cerrarse)
+  a --> hipervinculo, href= "url"
+  ol --> lista ordenada
+  ul --> lista desordenada
+  li --> elemento de la lista
+  img --> colocar imagen, src= "ruta", (no necesita cerrarse)
+  div --> seccionar
+  span --> seccionar un div
